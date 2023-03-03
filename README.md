@@ -179,16 +179,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <details>
 <summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
 <br>
-
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [ᴅᴀᴀɴᴀᴠ](https://telegram.dog/official_Daanav)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ᴇʀʀᴏʀ](https://telegram.dog/official_error_404)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
-</details>
-
 <details>
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
