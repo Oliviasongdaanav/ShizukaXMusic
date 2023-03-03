@@ -182,12 +182,9 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [sᴛᴀʀ ʙᴏɪ](https://telegram.dog/its_star_boi)
-- [ᴀsᴀᴅ ᴀʟɪ](https://telegram.dog/Dr_Asad_Ali)
+- [ᴅᴀᴀɴᴀᴠ](https://telegram.dog/official_Daanav)
 - [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://telegram.dog/HarshitSharma361)
-- [Abhimanyu](https://telegram.dog/Itz_Venom_xD)
-- [ᴍᴀssoᴍ](https://telegram.dog/Kattai_massom)
+- [ᴇʀʀᴏʀ](https://telegram.dog/official_error_404)
 - [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
 - [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
 </details>
@@ -197,8 +194,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <br>
 
 # ❤️ Support<
-<a href="https://telegram.dog/Star_X_Network"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/Best_FriendsFor_Ever"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://telegram.dog/Tsw_Official"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://telegram.dog/Team_Star_World"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 </details>
 
